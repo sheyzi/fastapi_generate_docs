@@ -1,8 +1,8 @@
-# Getting Started
+# FastAPI Generate
 
 FastAPI Generate is an extendable template for FastAPI preconfigured with things you might find yourself doing often while starting a new FastAPI Project.
 
-It comes preconfingured with:
+It comes preconfigured with:
 
 * Database
 * Database Migrations
